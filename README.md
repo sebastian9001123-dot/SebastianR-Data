@@ -22,9 +22,6 @@ Aquí subo mis proyectos de **análisis de datos**. Cada proyecto resuelve un pr
 | Proyecto | Descripción | Herramientas | Estado |
 |----------|-------------|--------------|--------|
 | **Anonimización de datos** | Aplicación de técnicas de protección (supresión, generalización, seudonimización, ruido) | Python, Pandas, NumPy, hashlib | ✅ Completado |
-| Análisis de ventas | Pendiente | Python, Pandas | Próximamente |
-| Segmentación de clientes | Pendiente | Python, Scikit-learn | Próximamente |
-| Dashboard de indicadores | Pendiente | Power BI | Próximamente |
 
 *Más proyectos se irán agregando*
 
