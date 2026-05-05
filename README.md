@@ -13,6 +13,7 @@ Aquí subo mis proyectos de **análisis de datos**. Cada proyecto resuelve un pr
 - ✅ **Análisis exploratorio** para encontrar patrones e insights
 - ✅ **Visualizaciones** claras y accionables
 - ✅ **Dashboards** interactivos en Power BI
+- ✅ **Protección de datos** y técnicas de anonimización
 
 ---
 
@@ -20,11 +21,12 @@ Aquí subo mis proyectos de **análisis de datos**. Cada proyecto resuelve un pr
 
 | Proyecto | Descripción | Herramientas | Estado |
 |----------|-------------|--------------|--------|
+| **Anonimización de datos** | Aplicación de técnicas de protección (supresión, generalización, seudonimización, ruido) | Python, Pandas, NumPy, hashlib | ✅ Completado |
 | Análisis de ventas | Pendiente | Python, Pandas | Próximamente |
 | Segmentación de clientes | Pendiente | Python, Scikit-learn | Próximamente |
 | Dashboard de indicadores | Pendiente | Power BI | Próximamente |
 
-*Los proyectos se irán agregando a medida que los complete*
+*Más proyectos se irán agregando*
 
 ---
 
@@ -47,4 +49,4 @@ Aquí subo mis proyectos de **análisis de datos**. Cada proyecto resuelve un pr
 
 ---
 
-⭐ *Proyectos en construcción. El repositorio crece con mi aprendizaje.*
+⭐ *El repositorio crece con mi aprendizaje. Cada proyecto es un paso más.*
