@@ -20,8 +20,3 @@ Aplicar técnicas de anonimización a una base de datos para proteger la identid
 1. Cargar base desde Excel (`Base de Datos.xlsx`)
 2. Aplicar técnicas en orden lógico
 3. Guardar nueva base anonimizada (`Base_Anonimizada.xlsx`)
-
-## ▶️ Cómo ejecutar
-
-```bash
-python anonimizacion.py
