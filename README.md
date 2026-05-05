@@ -7,7 +7,7 @@
 
 ## 👋 Sobre este repositorio
 
-Este repositorio contiene mis proyectos, ejercicios y trabajos prácticos relacionados con mi **especialización en Analítica de Datos**. Aquí demuestro mis habilidades en:
+Este repositorio contiene mis proyectos, ejercicios y trabajos prácticos relacionados con mi **aprendisaje  en Analítica de Datos**. Aquí demuestro mis habilidades en:
 
 - ✅ **Análisis exploratorio de datos (EDA)** con Python
 - ✅ **Limpieza y transformación de datos** (Pandas, NumPy)
@@ -46,7 +46,3 @@ Trabajos prácticos de la especialización:
 **Juan Sebastian Ramirez Rodriguez**
 - 📧 sebastian9001123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-sebastian-ramirez-9a534b242)
-
----
-
- *Este repositorio está en construcción. Subo los trabajos de mi especialización a medida que avanzo.*
