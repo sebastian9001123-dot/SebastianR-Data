@@ -7,37 +7,35 @@
 
 ## 👋 Sobre este repositorio
 
-Este repositorio contiene mis proyectos, ejercicios y trabajos prácticos relacionados con mi **aprendisaje  en Analítica de Datos**. Aquí demuestro mis habilidades en:
+Aquí subo mis proyectos de **análisis de datos**. Cada proyecto resuelve un problema real o ficticio usando:
 
-- ✅ **Análisis exploratorio de datos (EDA)** con Python
-- ✅ **Limpieza y transformación de datos** (Pandas, NumPy)
-- ✅ **Visualización de datos** (Matplotlib, Seaborn, Power BI)
-- ✅ **Estadística básica aplicada**
-- 🔄 **SQL** (en aprendizaje - nivel básico)
-
----
-
-## 📚 Especialización en Analítica de Datos
-
-Trabajos prácticos de la especialización:
-
-| Módulo | Tecnologías | Estado |
-|--------|-------------|--------|
-| Python para análisis de datos | Pandas, NumPy, Matplotlib | En progreso |
-| Estadística descriptiva | Python, Excel | Próximamente |
-| Visualización avanzada | Power BI, Seaborn | Próximamente |
-| SQL introductorio | Consultas básicas | En aprendizaje |
+- ✅ **Limpieza y transformación** de datos con Python (Pandas, NumPy)
+- ✅ **Análisis exploratorio** para encontrar patrones e insights
+- ✅ **Visualizaciones** claras y accionables
+- ✅ **Dashboards** interactivos en Power BI
 
 ---
 
-## 🛠️ Tecnologías que uso actualmente
+## 📁 Proyectos
+
+| Proyecto | Descripción | Herramientas | Estado |
+|----------|-------------|--------------|--------|
+| Análisis de ventas | Pendiente | Python, Pandas | Próximamente |
+| Segmentación de clientes | Pendiente | Python, Scikit-learn | Próximamente |
+| Dashboard de indicadores | Pendiente | Power BI | Próximamente |
+
+*Los proyectos se irán agregando a medida que los complete*
+
+---
+
+## 🛠️ Tecnologías
 
 | Área | Herramientas | Nivel |
 |------|--------------|-------|
-| **Análisis de datos** | Python (Pandas, NumPy) | Intermedio |
+| **Limpieza y análisis** | Python, Pandas, NumPy | Intermedio |
 | **Visualización** | Power BI, Matplotlib, Seaborn | Intermedio |
-| **Bases de datos** | Excel, archivos CSV, MySQL (básico) | Básico |
 | **Automatización** | Google Apps Script, Power Automate | Intermedio |
+| **Consultas básicas** | MySQL | Básico |
 
 ---
 
@@ -46,3 +44,7 @@ Trabajos prácticos de la especialización:
 **Juan Sebastian Ramirez Rodriguez**
 - 📧 sebastian9001123@gmail.com
 - 💼 [LinkedIn](https://www.linkedin.com/in/juan-sebastian-ramirez-9a534b242)
+
+---
+
+⭐ *Proyectos en construcción. El repositorio crece con mi aprendizaje.*
